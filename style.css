@@ -1,10 +1,23 @@
 div{
     text-align: center;
-    background-color: black;
-    color:orange
+}
+.candy{
+    border-style:solid;
+    border-color:aliceblue;
 }
 a{
     text-decoration:none;
     text-align:center;
     display: block;
+}
+nav{
+    margin-left:0px;
+}
+body{
+    background-color: black;
+    color:aliceblue
+}
+h1{
+    text-shadow: 3px 3px 3px whitesmoke;
+    text-align: center;
 }
