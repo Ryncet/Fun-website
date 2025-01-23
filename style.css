@@ -1,0 +1,10 @@
+div{
+    text-align: center;
+    background-color: black;
+    color:orange
+}
+a{
+    text-decoration:none;
+    text-align:center;
+    display: block;
+}
