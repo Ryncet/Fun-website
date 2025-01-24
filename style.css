@@ -12,12 +12,32 @@ a{
 }
 nav{
     margin-left:0px;
+    text-align:left
 }
 body{
     background-color: black;
-    color:aliceblue
+    color:aliceblue;
+    text-align:center;
 }
 h1{
     text-shadow: 3px 3px 3px whitesmoke;
-    text-align: center;
 }
+img{
+    width:20rem;
+    border-style:solid;
+    border-color:aliceblue;
+    border-radius: 25px;
+}
+.description{
+    display:inline-block;
+    border-style:solid;
+    border-color:aliceblue;
+    border-radius: 25px;
+}
+.cardtext{
+    width:19.5rem;
+}
+.name{
+    font-size:30px;
+}
+
